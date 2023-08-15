@@ -1,0 +1,442 @@
+onset	duration	trial_type	electrodes_involved_onset	electrodes_involved_offset	sample_start	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_site_num	electrical_stimulation_current	notes	status	status_description
+194.6826172	0.0002	electrical_stimulation	n/a	n/a	398710	biphasic	LD14-LD15	184-185	6.0 mA	n/a	bad	electrodes close to skull
+236.9790039	0.0002	electrical_stimulation	n/a	n/a	485333	biphasic	LD14-LD15	184-185	6.0 mA	n/a	bad	electrodes close to skull
+261.3442383	0.0002	electrical_stimulation	n/a	n/a	535233	biphasic	LD14-LD15	184-185	6.0 mA	n/a	bad	electrodes close to skull
+266.1694336	0.0002	electrical_stimulation	n/a	n/a	545115	biphasic	LD14-LD15	184-185	6.0 mA	n/a	bad	electrodes close to skull
+271.1611328	0.0002	electrical_stimulation	n/a	n/a	555338	biphasic	LD14-LD15	184-185	6.0 mA	n/a	bad	electrodes close to skull
+276.3613281	0.0002	electrical_stimulation	n/a	n/a	565988	biphasic	LD14-LD15	184-185	6.0 mA	n/a	bad	electrodes close to skull
+282.0131836	0.0002	electrical_stimulation	n/a	n/a	577563	biphasic	LD14-LD15	184-185	6.0 mA	n/a	bad	electrodes close to skull
+287.0366211	0.0002	electrical_stimulation	n/a	n/a	587851	biphasic	LD14-LD15	184-185	6.0 mA	n/a	bad	electrodes close to skull
+294.1801758	0.0002	electrical_stimulation	n/a	n/a	602481	biphasic	LD14-LD15	184-185	6.0 mA	n/a	bad	electrodes close to skull
+299.7431641	0.0002	electrical_stimulation	n/a	n/a	613874	biphasic	LD14-LD15	184-185	6.0 mA	n/a	bad	electrodes close to skull
+305.2939453	0.0002	electrical_stimulation	n/a	n/a	625242	biphasic	LD14-LD15	184-185	6.0 mA	n/a	bad	electrodes close to skull
+339.5180664	0.0002	electrical_stimulation	n/a	n/a	695333	biphasic	LD13-LD14	183-184	6.0 mA	n/a	bad	electrodes close to skull
+344.6201172	0.0002	electrical_stimulation	n/a	n/a	705782	biphasic	LD13-LD14	183-184	6.0 mA	n/a	bad	electrodes close to skull
+349.7246094	0.0002	electrical_stimulation	n/a	n/a	716236	biphasic	LD13-LD14	183-184	6.0 mA	n/a	bad	electrodes close to skull
+353.53125	0.0002	electrical_stimulation	n/a	n/a	724032	biphasic	LD13-LD14	183-184	6.0 mA	n/a	bad	electrodes close to skull
+357.6357422	0.0002	electrical_stimulation	n/a	n/a	732438	biphasic	LD13-LD14	183-184	6.0 mA	n/a	bad	electrodes close to skull
+361.8422852	0.0002	electrical_stimulation	n/a	n/a	741053	biphasic	LD13-LD14	183-184	6.0 mA	n/a	bad	electrodes close to skull
+366.3842773	0.0002	electrical_stimulation	n/a	n/a	750355	biphasic	LD13-LD14	183-184	6.0 mA	n/a	bad	electrodes close to skull
+371.7109375	0.0002	electrical_stimulation	n/a	n/a	761264	biphasic	LD13-LD14	183-184	6.0 mA	n/a	bad	electrodes close to skull
+376.6098633	0.0002	electrical_stimulation	n/a	n/a	771297	biphasic	LD13-LD14	183-184	6.0 mA	n/a	bad	electrodes close to skull
+381.6992188	0.0002	electrical_stimulation	n/a	n/a	781720	biphasic	LD13-LD14	183-184	6.0 mA	n/a	bad	electrodes close to skull
+402.484375	0.0002	electrical_stimulation	n/a	n/a	824288	biphasic	LD12-LD13	182-183	6.0 mA	n/a	good	n/a
+406.949707	0.0002	electrical_stimulation	n/a	n/a	833433	biphasic	LD12-LD13	182-183	6.0 mA	n/a	bad	n/a
+411.7802734	0.0002	electrical_stimulation	n/a	n/a	843326	biphasic	LD12-LD13	182-183	6.0 mA	n/a	good	n/a
+416.3173828	0.0002	electrical_stimulation	n/a	n/a	852618	biphasic	LD12-LD13	182-183	6.0 mA	n/a	good	n/a
+420.8759766	0.0002	electrical_stimulation	n/a	n/a	861954	biphasic	LD12-LD13	182-183	6.0 mA	n/a	good	n/a
+424.5400391	0.0002	electrical_stimulation	n/a	n/a	869458	biphasic	LD12-LD13	182-183	6.0 mA	n/a	good	n/a
+429.5424805	0.0002	electrical_stimulation	n/a	n/a	879703	biphasic	LD12-LD13	182-183	6.0 mA	n/a	good	n/a
+433.9799805	0.0002	electrical_stimulation	n/a	n/a	888791	biphasic	LD12-LD13	182-183	6.0 mA	n/a	good	n/a
+438.6318359	0.0002	electrical_stimulation	n/a	n/a	898318	biphasic	LD12-LD13	182-183	6.0 mA	n/a	good	n/a
+443.4707031	0.0002	electrical_stimulation	n/a	n/a	908228	biphasic	LD12-LD13	182-183	6.0 mA	n/a	good	n/a
+448.690918	0.0002	electrical_stimulation	n/a	n/a	918919	biphasic	LD12-LD13	182-183	6.0 mA	n/a	good	n/a
+467.003418	0.0002	electrical_stimulation	n/a	n/a	956423	biphasic	LD11-LD12	181-182	6.0 mA	n/a	good	noise fixed when referencing
+472.8979492	0.0002	electrical_stimulation	n/a	n/a	968495	biphasic	LD11-LD12	181-182	6.0 mA	n/a	good	n/a
+477.4638672	0.0002	electrical_stimulation	n/a	n/a	977846	biphasic	LD11-LD12	181-182	6.0 mA	n/a	good	n/a
+482.0415039	0.0002	electrical_stimulation	n/a	n/a	987221	biphasic	LD11-LD12	181-182	6.0 mA	n/a	good	n/a
+486.1611328	0.0002	electrical_stimulation	n/a	n/a	995658	biphasic	LD11-LD12	181-182	6.0 mA	n/a	good	n/a
+490.0595703	0.0002	electrical_stimulation	n/a	n/a	1003642	biphasic	LD11-LD12	181-182	6.0 mA	n/a	good	art ~ -0.8 fixed when referencing
+496.503418	0.0002	electrical_stimulation	n/a	n/a	1016839	biphasic	LD11-LD12	181-182	6.0 mA	n/a	good	n/a
+501.3964844	0.0002	electrical_stimulation	n/a	n/a	1026860	biphasic	LD11-LD12	181-182	6.0 mA	n/a	good	n/a
+506.1943359	0.0002	electrical_stimulation	n/a	n/a	1036686	biphasic	LD11-LD12	181-182	6.0 mA	n/a	good	n/a
+511.3242188	0.0002	electrical_stimulation	n/a	n/a	1047192	biphasic	LD11-LD12	181-182	6.0 mA	n/a	good	n/a
+516.4399414	0.0002	electrical_stimulation	n/a	n/a	1057669	biphasic	LD11-LD12	181-182	6.0 mA	n/a	good	art ~0.6 fixed when referencing
+521.4453125	0.0002	electrical_stimulation	n/a	n/a	1067920	biphasic	LD11-LD12	181-182	6.0 mA	n/a	good	n/a
+550.7709961	0.0002	electrical_stimulation	n/a	n/a	1127979	biphasic	LD10-LD11	180-181	6.0 mA	n/a	good	n/a
+555.9824219	0.0002	electrical_stimulation	n/a	n/a	1138652	biphasic	LD10-LD11	180-181	6.0 mA	n/a	good	n/a
+559.3422852	0.0002	electrical_stimulation	n/a	n/a	1145533	biphasic	LD10-LD11	180-181	6.0 mA	n/a	good	n/a
+564.1689453	0.0002	electrical_stimulation	n/a	n/a	1155418	biphasic	LD10-LD11	180-181	6.0 mA	n/a	good	n/a
+568.1577148	0.0002	electrical_stimulation	n/a	n/a	1163587	biphasic	LD10-LD11	180-181	6.0 mA	n/a	good	n/a
+574.0292969	0.0002	electrical_stimulation	n/a	n/a	1175612	biphasic	LD10-LD11	180-181	6.0 mA	n/a	good	artifacts fixed when referencing
+578.8583984	0.0002	electrical_stimulation	n/a	n/a	1185502	biphasic	LD10-LD11	180-181	6.0 mA	n/a	good	n/a
+583.9487305	0.0002	electrical_stimulation	n/a	n/a	1195927	biphasic	LD10-LD11	180-181	6.0 mA	n/a	good	n/a
+588.0581055	0.0002	electrical_stimulation	n/a	n/a	1204343	biphasic	LD10-LD11	180-181	6.0 mA	n/a	good	n/a
+593.9335938	0.0002	electrical_stimulation	n/a	n/a	1216376	biphasic	LD10-LD11	180-181	6.0 mA	n/a	good	n/a
+616.5195313	0.0002	electrical_stimulation	n/a	n/a	1262632	biphasic	LD9-LD10	179-180	6.0 mA	n/a	good	n/a
+621.5175781	0.0002	electrical_stimulation	n/a	n/a	1272868	biphasic	LD9-LD10	179-180	6.0 mA	n/a	good	n/a
+625.4916992	0.0002	electrical_stimulation	n/a	n/a	1281007	biphasic	LD9-LD10	179-180	6.0 mA	n/a	good	artifacts fixed when referencing
+629.6499023	0.0002	electrical_stimulation	n/a	n/a	1289523	biphasic	LD9-LD10	179-180	6.0 mA	n/a	good	n/a
+634.1923828	0.0002	electrical_stimulation	n/a	n/a	1298826	biphasic	LD9-LD10	179-180	6.0 mA	n/a	good	n/a
+638.6186523	0.0002	electrical_stimulation	n/a	n/a	1307891	biphasic	LD9-LD10	179-180	6.0 mA	n/a	good	n/a
+643.4667969	0.0002	electrical_stimulation	n/a	n/a	1317820	biphasic	LD9-LD10	179-180	6.0 mA	n/a	good	n/a
+647.4501953	0.0002	electrical_stimulation	n/a	n/a	1325978	biphasic	LD9-LD10	179-180	6.0 mA	n/a	good	n/a
+651.9990234	0.0002	electrical_stimulation	n/a	n/a	1335294	biphasic	LD9-LD10	179-180	6.0 mA	n/a	good	n/a
+656.1069336	0.0002	electrical_stimulation	n/a	n/a	1343707	biphasic	LD9-LD10	179-180	6.0 mA	n/a	good	n/a
+671.4990234	0.0002	electrical_stimulation	n/a	n/a	1375230	biphasic	LD8-LD9	178-179	6.0 mA	n/a	good	n/a
+677.3725586	0.0002	electrical_stimulation	n/a	n/a	1387259	biphasic	LD8-LD9	178-179	6.0 mA	n/a	good	art ~ -0.3 fixed when referencing
+682.6088867	0.0002	electrical_stimulation	n/a	n/a	1397983	biphasic	LD8-LD9	178-179	6.0 mA	n/a	good	n/a
+686.1748047	0.0002	electrical_stimulation	n/a	n/a	1405286	biphasic	LD8-LD9	178-179	6.0 mA	n/a	good	artifact ~1.3s fixed when referencing
+692.5170898	0.0002	electrical_stimulation	n/a	n/a	1418275	biphasic	LD8-LD9	178-179	6.0 mA	n/a	good	n/a
+696.75	0.0002	electrical_stimulation	n/a	n/a	1426944	biphasic	LD8-LD9	178-179	6.0 mA	n/a	good	art ~-0.6 fixed when referencing
+701.4238281	0.0002	electrical_stimulation	n/a	n/a	1436516	biphasic	LD8-LD9	178-179	6.0 mA	n/a	good	n/a
+707.1943359	0.0002	electrical_stimulation	n/a	n/a	1448334	biphasic	LD8-LD9	178-179	6.0 mA	n/a	good	n/a
+712.2036133	0.0002	electrical_stimulation	n/a	n/a	1458593	biphasic	LD8-LD9	178-179	6.0 mA	n/a	good	n/a
+718.7568359	0.0002	electrical_stimulation	n/a	n/a	1472014	biphasic	LD8-LD9	178-179	6.0 mA	n/a	good	n/a
+723.0849609	0.0002	electrical_stimulation	n/a	n/a	1480878	biphasic	LD8-LD9	178-179	6.0 mA	n/a	good	noise fixed when referencing
+727.6845703	0.0002	electrical_stimulation	n/a	n/a	1490298	biphasic	LD8-LD9	178-179	6.0 mA	n/a	good	art. ~-0.3 fixed when referencing
+732.5371094	0.0002	electrical_stimulation	n/a	n/a	1500236	biphasic	LD8-LD9	178-179	6.0 mA	n/a	good	n/a
+752.3608398	0.0002	electrical_stimulation	n/a	n/a	1540835	biphasic	LD7-LD8	177-178	6.0 mA	n/a	good	n/a
+757.8989258	0.0002	electrical_stimulation	n/a	n/a	1552177	biphasic	LD7-LD8	177-178	6.0 mA	n/a	good	n/a
+762.2773438	0.0002	electrical_stimulation	n/a	n/a	1561144	biphasic	LD7-LD8	177-178	6.0 mA	n/a	good	n/a
+766.5126953	0.0002	electrical_stimulation	n/a	n/a	1569818	biphasic	LD7-LD8	177-178	6.0 mA	n/a	good	art ~1s fixed when referencing
+770.6381836	0.0002	electrical_stimulation	n/a	n/a	1578267	biphasic	LD7-LD8	177-178	6.0 mA	n/a	good	n/a
+775.309082	0.0002	electrical_stimulation	n/a	n/a	1587833	biphasic	LD7-LD8	177-178	6.0 mA	n/a	good	n/a
+779.4282227	0.0002	electrical_stimulation	n/a	n/a	1596269	biphasic	LD7-LD8	177-178	6.0 mA	n/a	good	n/a
+784.2416992	0.0002	electrical_stimulation	n/a	n/a	1606127	biphasic	LD7-LD8	177-178	6.0 mA	n/a	good	n/a
+790.3598633	0.0002	electrical_stimulation	n/a	n/a	1618657	biphasic	LD7-LD8	177-178	6.0 mA	n/a	good	n/a
+796.8232422	0.0002	electrical_stimulation	n/a	n/a	1631894	biphasic	LD7-LD8	177-178	6.0 mA	n/a	good	n/a
+801.4995117	0.0002	electrical_stimulation	n/a	n/a	1641471	biphasic	LD7-LD8	177-178	6.0 mA	n/a	good	n/a
+825.3339844	0.0002	electrical_stimulation	n/a	n/a	1690284	biphasic	LD6-LD7	176-177	6.0 mA	n/a	good	n/a
+830.6865234	0.0002	electrical_stimulation	n/a	n/a	1701246	biphasic	LD6-LD7	176-177	6.0 mA	n/a	good	n/a
+835.3735352	0.0002	electrical_stimulation	n/a	n/a	1710845	biphasic	LD6-LD7	176-177	6.0 mA	n/a	good	small artifacts fixed when referencing
+840.8266602	0.0002	electrical_stimulation	n/a	n/a	1722013	biphasic	LD6-LD7	176-177	6.0 mA	n/a	good	art ~-0.6s fixed when referencing
+846.3945313	0.0002	electrical_stimulation	n/a	n/a	1733416	biphasic	LD6-LD7	176-177	6.0 mA	n/a	good	n/a
+851.9804688	0.0002	electrical_stimulation	n/a	n/a	1744856	biphasic	LD6-LD7	176-177	6.0 mA	n/a	good	n/a
+857.2226563	0.0002	electrical_stimulation	n/a	n/a	1755592	biphasic	LD6-LD7	176-177	6.0 mA	n/a	good	n/a
+861.3227539	0.0002	electrical_stimulation	n/a	n/a	1763989	biphasic	LD6-LD7	176-177	6.0 mA	n/a	good	n/a
+866.6567383	0.0002	electrical_stimulation	n/a	n/a	1774913	biphasic	LD6-LD7	176-177	6.0 mA	n/a	good	n/a
+893.1660156	0.0002	electrical_stimulation	n/a	n/a	1829204	biphasic	LD5-LD6	175-176	6.0 mA	n/a	good	n/a
+898.0805664	0.0002	electrical_stimulation	n/a	n/a	1839269	biphasic	LD5-LD6	175-176	6.0 mA	n/a	good	n/a
+902.9902344	0.0002	electrical_stimulation	n/a	n/a	1849324	biphasic	LD5-LD6	175-176	6.0 mA	n/a	good	n/a
+907.6459961	0.0002	electrical_stimulation	n/a	n/a	1858859	biphasic	LD5-LD6	175-176	6.0 mA	n/a	good	n/a
+912.3061523	0.0002	electrical_stimulation	n/a	n/a	1868403	biphasic	LD5-LD6	175-176	6.0 mA	n/a	good	n/a
+916.7519531	0.0002	electrical_stimulation	n/a	n/a	1877508	biphasic	LD5-LD6	175-176	6.0 mA	n/a	good	n/a
+921.121582	0.0002	electrical_stimulation	n/a	n/a	1886457	biphasic	LD5-LD6	175-176	6.0 mA	n/a	good	n/a
+925.1450195	0.0002	electrical_stimulation	n/a	n/a	1894697	biphasic	LD5-LD6	175-176	6.0 mA	n/a	good	n/a
+929.0537109	0.0002	electrical_stimulation	n/a	n/a	1902702	biphasic	LD5-LD6	175-176	6.0 mA	n/a	good	n/a
+933.8803711	0.0002	electrical_stimulation	n/a	n/a	1912587	biphasic	LD5-LD6	175-176	6.0 mA	n/a	good	art ~1.1s fixed when referencing
+938.7231445	0.0002	electrical_stimulation	n/a	n/a	1922505	biphasic	LD5-LD6	175-176	6.0 mA	n/a	good	n/a
+944.9667969	0.0002	electrical_stimulation	n/a	n/a	1935292	biphasic	LD5-LD6	175-176	6.0 mA	n/a	good	n/a
+950.5297852	0.0002	electrical_stimulation	n/a	n/a	1946685	biphasic	LD5-LD6	175-176	6.0 mA	n/a	good	n/a
+967.8681641	0.0002	electrical_stimulation	n/a	n/a	1982194	biphasic	LD4-LD5	174-175	6.0 mA	n/a	good	n/a
+971.3212891	0.0002	electrical_stimulation	n/a	n/a	1989266	biphasic	LD4-LD5	174-175	6.0 mA	n/a	bad	n/a
+974.640625	0.0002	electrical_stimulation	n/a	n/a	1996064	biphasic	LD4-LD5	174-175	6.0 mA	n/a	good	n/a
+979.6000977	0.0002	electrical_stimulation	n/a	n/a	2006221	biphasic	LD4-LD5	174-175	6.0 mA	n/a	good	n/a
+984.7045898	0.0002	electrical_stimulation	n/a	n/a	2016675	biphasic	LD4-LD5	174-175	6.0 mA	n/a	good	n/a
+988.8027344	0.0002	electrical_stimulation	n/a	n/a	2025068	biphasic	LD4-LD5	174-175	6.0 mA	n/a	good	n/a
+992.7045898	0.0002	electrical_stimulation	n/a	n/a	2033059	biphasic	LD4-LD5	174-175	6.0 mA	n/a	good	n/a
+995.7084961	0.0002	electrical_stimulation	n/a	n/a	2039211	biphasic	LD4-LD5	174-175	6.0 mA	n/a	good	n/a
+1000.15918	0.0002	electrical_stimulation	n/a	n/a	2048326	biphasic	LD4-LD5	174-175	6.0 mA	n/a	bad	n/a
+1005.708496	0.0002	electrical_stimulation	n/a	n/a	2059691	biphasic	LD4-LD5	174-175	6.0 mA	n/a	good	art ~-0.4 fixed when referencing
+1010.839844	0.0002	electrical_stimulation	n/a	n/a	2070200	biphasic	LD4-LD5	174-175	6.0 mA	n/a	good	n/a
+1027.240723	0.0002	electrical_stimulation	n/a	n/a	2103789	biphasic	LD3-LD4	173-174	6.0 mA	n/a	good	n/a
+1031.907715	0.0002	electrical_stimulation	n/a	n/a	2113347	biphasic	LD3-LD4	173-174	6.0 mA	n/a	good	n/a
+1036.239258	0.0002	electrical_stimulation	n/a	n/a	2122218	biphasic	LD3-LD4	173-174	6.0 mA	n/a	good	n/a
+1041.795898	0.0002	electrical_stimulation	n/a	n/a	2133598	biphasic	LD3-LD4	173-174	6.0 mA	n/a	good	n/a
+1046.344727	0.0002	electrical_stimulation	n/a	n/a	2142914	biphasic	LD3-LD4	173-174	6.0 mA	n/a	good	n/a
+1051.246094	0.0002	electrical_stimulation	n/a	n/a	2152952	biphasic	LD3-LD4	173-174	6.0 mA	n/a	good	n/a
+1056.234863	0.0002	electrical_stimulation	n/a	n/a	2163169	biphasic	LD3-LD4	173-174	6.0 mA	n/a	good	n/a
+1060.571777	0.0002	electrical_stimulation	n/a	n/a	2172051	biphasic	LD3-LD4	173-174	6.0 mA	n/a	good	n/a
+1065.571289	0.0002	electrical_stimulation	n/a	n/a	2182290	biphasic	LD3-LD4	173-174	6.0 mA	n/a	good	n/a
+1069.54834	0.0002	electrical_stimulation	n/a	n/a	2190435	biphasic	LD3-LD4	173-174	6.0 mA	n/a	good	art ~1.1 fixed when referencing
+1073.341309	0.0002	electrical_stimulation	n/a	n/a	2198203	biphasic	LD3-LD4	173-174	6.0 mA	n/a	good	art ~-0.6 fixed when referencing
+1089.134766	0.0002	electrical_stimulation	n/a	n/a	2230548	biphasic	LD2-LD3	172-173	6.0 mA	n/a	good	n/a
+1093.470215	0.0002	electrical_stimulation	n/a	n/a	2239427	biphasic	LD2-LD3	172-173	6.0 mA	n/a	good	n/a
+1098.280762	0.0002	electrical_stimulation	n/a	n/a	2249279	biphasic	LD2-LD3	172-173	6.0 mA	n/a	good	n/a
+1103.199219	0.0002	electrical_stimulation	n/a	n/a	2259352	biphasic	LD2-LD3	172-173	6.0 mA	n/a	good	n/a
+1109.229004	0.0002	electrical_stimulation	n/a	n/a	2271701	biphasic	LD2-LD3	172-173	6.0 mA	n/a	good	n/a
+1113.125	0.0002	electrical_stimulation	n/a	n/a	2279680	biphasic	LD2-LD3	172-173	6.0 mA	n/a	good	n/a
+1117.362305	0.0002	electrical_stimulation	n/a	n/a	2288358	biphasic	LD2-LD3	172-173	6.0 mA	n/a	good	n/a
+1122.484375	0.0002	electrical_stimulation	n/a	n/a	2298848	biphasic	LD2-LD3	172-173	6.0 mA	n/a	good	n/a
+1127.324707	0.0002	electrical_stimulation	n/a	n/a	2308761	biphasic	LD2-LD3	172-173	6.0 mA	n/a	good	art ~-0.5s fixed when referencing
+1131.425293	0.0002	electrical_stimulation	n/a	n/a	2317159	biphasic	LD2-LD3	172-173	6.0 mA	n/a	good	n/a
+1136.109375	0.0002	electrical_stimulation	n/a	n/a	2326752	biphasic	LD2-LD3	172-173	6.0 mA	n/a	good	n/a
+1141.140625	0.0002	electrical_stimulation	n/a	n/a	2337056	biphasic	LD2-LD3	172-173	6.0 mA	n/a	good	n/a
+1164.172363	0.0002	electrical_stimulation	n/a	n/a	2384225	biphasic	LD1-LD2	171-172	6.0 mA	n/a	good	n/a
+1167.979004	0.0002	electrical_stimulation	n/a	n/a	2392021	biphasic	LD1-LD2	171-172	6.0 mA	n/a	good	n/a
+1171.999512	0.0002	electrical_stimulation	n/a	n/a	2400255	biphasic	LD1-LD2	171-172	6.0 mA	n/a	good	n/a
+1176.466309	0.0002	electrical_stimulation	n/a	n/a	2409403	biphasic	LD1-LD2	171-172	6.0 mA	n/a	good	n/a
+1181.143066	0.0002	electrical_stimulation	n/a	n/a	2418981	biphasic	LD1-LD2	171-172	6.0 mA	n/a	good	n/a
+1186.71875	0.0002	electrical_stimulation	n/a	n/a	2430400	biphasic	LD1-LD2	171-172	6.0 mA	n/a	good	n/a
+1192.265137	0.0002	electrical_stimulation	n/a	n/a	2441759	biphasic	LD1-LD2	171-172	6.0 mA	n/a	good	art ~-0.4 fixed when referencing
+1196.824219	0.0002	electrical_stimulation	n/a	n/a	2451096	biphasic	LD1-LD2	171-172	6.0 mA	n/a	good	n/a
+1202.172363	0.0002	electrical_stimulation	n/a	n/a	2462049	biphasic	LD1-LD2	171-172	6.0 mA	n/a	good	n/a
+1207.519043	0.0002	electrical_stimulation	n/a	n/a	2472999	biphasic	LD1-LD2	171-172	6.0 mA	n/a	good	art ~-0.4 fixed when referencing
+1212.75	0.0002	electrical_stimulation	n/a	n/a	2483712	biphasic	LD1-LD2	171-172	6.0 mA	n/a	good	n/a
+1220.999512	0.0002	electrical_stimulation	n/a	n/a	2500607	biphasic	LD1-LD2	171-172	6.0 mA	n/a	good	n/a
+1225.360352	0.0002	electrical_stimulation	n/a	n/a	2509538	biphasic	LD1-LD2	171-172	6.0 mA	n/a	good	n/a
+1262.978027	0.0002	electrical_stimulation	n/a	n/a	2586579	biphasic	LA1-LA2	2-Jan	6.0 mA	n/a	good	n/a
+1270.659668	0.0002	electrical_stimulation	n/a	n/a	2602311	biphasic	LA1-LA2	2-Jan	6.0 mA	n/a	good	n/a
+1275.491699	0.0002	electrical_stimulation	n/a	n/a	2612207	biphasic	LA1-LA2	2-Jan	6.0 mA	n/a	good	n/a
+1279.278809	0.0002	electrical_stimulation	n/a	n/a	2619963	biphasic	LA1-LA2	2-Jan	6.0 mA	n/a	good	art ~1.7s fixed when referencing
+1283.52002	0.0002	electrical_stimulation	n/a	n/a	2628649	biphasic	LA1-LA2	2-Jan	6.0 mA	n/a	good	art ~1.5s fixed when referencing
+1289.188477	0.0002	electrical_stimulation	n/a	n/a	2640258	biphasic	LA1-LA2	2-Jan	6.0 mA	n/a	good	n/a
+1293.219238	0.0002	electrical_stimulation	n/a	n/a	2648513	biphasic	LA1-LA2	2-Jan	6.0 mA	n/a	good	n/a
+1297.332031	0.0002	electrical_stimulation	n/a	n/a	2656936	biphasic	LA1-LA2	2-Jan	6.0 mA	n/a	good	n/a
+1301.770996	0.0002	electrical_stimulation	n/a	n/a	2666027	biphasic	LA1-LA2	2-Jan	6.0 mA	n/a	good	n/a
+1321.908203	0.0002	electrical_stimulation	n/a	n/a	2707268	biphasic	LA2-LA3	3-Feb	6.0 mA	n/a	good	art ~1.9s fixed when referencing
+1326.9375	0.0002	electrical_stimulation	n/a	n/a	2717568	biphasic	LA2-LA3	3-Feb	6.0 mA	n/a	good	n/a
+1330.824219	0.0002	electrical_stimulation	n/a	n/a	2725528	biphasic	LA2-LA3	3-Feb	6.0 mA	n/a	good	n/a
+1335.377441	0.0002	electrical_stimulation	n/a	n/a	2734853	biphasic	LA2-LA3	3-Feb	6.0 mA	n/a	good	n/a
+1339.208008	0.0002	electrical_stimulation	n/a	n/a	2742698	biphasic	LA2-LA3	3-Feb	6.0 mA	n/a	good	art. ~1.6 fixed when referencing
+1343.456543	0.0002	electrical_stimulation	n/a	n/a	2751399	biphasic	LA2-LA3	3-Feb	6.0 mA	n/a	good	n/a
+1347.27002	0.0002	electrical_stimulation	n/a	n/a	2759209	biphasic	LA2-LA3	3-Feb	6.0 mA	n/a	good	n/a
+1350.832031	0.0002	electrical_stimulation	n/a	n/a	2766504	biphasic	LA2-LA3	3-Feb	6.0 mA	n/a	good	n/a
+1355.313477	0.0002	electrical_stimulation	n/a	n/a	2775682	biphasic	LA2-LA3	3-Feb	6.0 mA	n/a	good	n/a
+1359.678711	0.0002	electrical_stimulation	n/a	n/a	2784622	biphasic	LA2-LA3	3-Feb	6.0 mA	n/a	good	n/a
+1376.949219	0.0002	electrical_stimulation	n/a	n/a	2819992	biphasic	LA3-LA4	4-Mar	6.0 mA	n/a	good	art ~-1s to -0.5 fixed when referencing
+1382.999023	0.0002	electrical_stimulation	n/a	n/a	2832382	biphasic	LA3-LA4	4-Mar	6.0 mA	n/a	good	n/a
+1387.679688	0.0002	electrical_stimulation	n/a	n/a	2841968	biphasic	LA3-LA4	4-Mar	6.0 mA	n/a	good	n/a
+1392.687012	0.0002	electrical_stimulation	n/a	n/a	2852223	biphasic	LA3-LA4	4-Mar	6.0 mA	n/a	good	art. ~0.3 fixed when referencing
+1396.820801	0.0002	electrical_stimulation	n/a	n/a	2860689	biphasic	LA3-LA4	4-Mar	6.0 mA	n/a	good	n/a
+1400.490234	0.0002	electrical_stimulation	n/a	n/a	2868204	biphasic	LA3-LA4	4-Mar	6.0 mA	n/a	good	n/a
+1403.509277	0.0002	electrical_stimulation	n/a	n/a	2874387	biphasic	LA3-LA4	4-Mar	6.0 mA	n/a	good	n/a
+1407.412598	0.0002	electrical_stimulation	n/a	n/a	2882381	biphasic	LA3-LA4	4-Mar	6.0 mA	n/a	good	n/a
+1411.40332	0.0002	electrical_stimulation	n/a	n/a	2890554	biphasic	LA3-LA4	4-Mar	6.0 mA	n/a	good	n/a
+1429.121094	0.0002	electrical_stimulation	n/a	n/a	2926840	biphasic	LB1-LB2	16-17	6.0 mA	n/a	good	n/a
+1433.44873	0.0002	electrical_stimulation	n/a	n/a	2935703	biphasic	LB1-LB2	16-17	6.0 mA	n/a	good	n/a
+1437.879395	0.0002	electrical_stimulation	n/a	n/a	2944777	biphasic	LB1-LB2	16-17	6.0 mA	n/a	good	n/a
+1441.686035	0.0002	electrical_stimulation	n/a	n/a	2952573	biphasic	LB1-LB2	16-17	6.0 mA	n/a	good	n/a
+1445.472168	0.0002	electrical_stimulation	n/a	n/a	2960327	biphasic	LB1-LB2	16-17	6.0 mA	n/a	good	n/a
+1449.696289	0.0002	electrical_stimulation	n/a	n/a	2968978	biphasic	LB1-LB2	16-17	6.0 mA	n/a	good	n/a
+1454.235352	0.0002	electrical_stimulation	n/a	n/a	2978274	biphasic	LB1-LB2	16-17	6.0 mA	n/a	good	art. ~ -0.6 fixed when referencing
+1459.571289	0.0002	electrical_stimulation	n/a	n/a	2989202	biphasic	LB1-LB2	16-17	6.0 mA	n/a	good	n/a
+1475.807617	0.0002	electrical_stimulation	n/a	n/a	3022454	biphasic	LB2-LB3	17-18	6.0 mA	n/a	good	n/a
+1481.146973	0.0002	electrical_stimulation	n/a	n/a	3033389	biphasic	LB2-LB3	17-18	6.0 mA	n/a	good	n/a
+1485.816895	0.0002	electrical_stimulation	n/a	n/a	3042953	biphasic	LB2-LB3	17-18	6.0 mA	n/a	good	n/a
+1490.381348	0.0002	electrical_stimulation	n/a	n/a	3052301	biphasic	LB2-LB3	17-18	6.0 mA	n/a	good	n/a
+1493.932129	0.0002	electrical_stimulation	n/a	n/a	3059573	biphasic	LB2-LB3	17-18	6.0 mA	n/a	good	n/a
+1497.376465	0.0002	electrical_stimulation	n/a	n/a	3066627	biphasic	LB2-LB3	17-18	6.0 mA	n/a	bad	n/a
+1500.812012	0.0002	electrical_stimulation	n/a	n/a	3073663	biphasic	LB2-LB3	17-18	6.0 mA	n/a	good	n/a
+1505.638184	0.0002	electrical_stimulation	n/a	n/a	3083547	biphasic	LB2-LB3	17-18	6.0 mA	n/a	good	n/a
+1510.550781	0.0002	electrical_stimulation	n/a	n/a	3093608	biphasic	LB2-LB3	17-18	6.0 mA	n/a	good	art ~1.6 fixed when referencing
+1514.994141	0.0002	electrical_stimulation	n/a	n/a	3102708	biphasic	LB2-LB3	17-18	6.0 mA	n/a	good	n/a
+1530.043457	0.0002	electrical_stimulation	n/a	n/a	3133529	biphasic	LB3-LB4	18-19	6.0 mA	n/a	good	noise fixed when referencing
+1534.567383	0.0002	electrical_stimulation	n/a	n/a	3142794	biphasic	LB3-LB4	18-19	6.0 mA	n/a	good	noise fixed when referencing
+1538.913086	0.0002	electrical_stimulation	n/a	n/a	3151694	biphasic	LB3-LB4	18-19	6.0 mA	n/a	good	n/a
+1542.900879	0.0002	electrical_stimulation	n/a	n/a	3159861	biphasic	LB3-LB4	18-19	6.0 mA	n/a	good	noise fixed when referencing
+1547.478516	0.0002	electrical_stimulation	n/a	n/a	3169236	biphasic	LB3-LB4	18-19	6.0 mA	n/a	good	n/a
+1554.041016	0.0002	electrical_stimulation	n/a	n/a	3182676	biphasic	LB3-LB4	18-19	6.0 mA	n/a	good	n/a
+1561.165527	0.0002	electrical_stimulation	n/a	n/a	3197267	biphasic	LB3-LB4	18-19	6.0 mA	n/a	good	n/a
+1570.537109	0.0002	electrical_stimulation	n/a	n/a	3216460	biphasic	LB3-LB4	18-19	6.0 mA	n/a	good	n/a
+1576.182617	0.0002	electrical_stimulation	n/a	n/a	3228022	biphasic	LB3-LB4	18-19	6.0 mA	n/a	good	n/a
+1584.525879	0.0002	electrical_stimulation	n/a	n/a	3245109	biphasic	LB3-LB4	18-19	6.0 mA	n/a	good	n/a
+1643.145508	0.0002	electrical_stimulation	n/a	n/a	3365162	biphasic	LZ1-LZ2	49-50	6.0 mA	n/a	good	n/a
+1647.729492	0.0002	electrical_stimulation	n/a	n/a	3374550	biphasic	LZ1-LZ2	49-50	6.0 mA	n/a	good	n/a
+1652.081055	0.0002	electrical_stimulation	n/a	n/a	3383462	biphasic	LZ1-LZ2	49-50	6.0 mA	n/a	good	n/a
+1657.071777	0.0002	electrical_stimulation	n/a	n/a	3393683	biphasic	LZ1-LZ2	49-50	6.0 mA	n/a	good	n/a
+1661.508301	0.0002	electrical_stimulation	n/a	n/a	3402769	biphasic	LZ1-LZ2	49-50	6.0 mA	n/a	good	n/a
+1665.98877	0.0002	electrical_stimulation	n/a	n/a	3411945	biphasic	LZ1-LZ2	49-50	6.0 mA	n/a	good	n/a
+1670.675293	0.0002	electrical_stimulation	n/a	n/a	3421543	biphasic	LZ1-LZ2	49-50	6.0 mA	n/a	good	n/a
+1674.917969	0.0002	electrical_stimulation	n/a	n/a	3430232	biphasic	LZ1-LZ2	49-50	6.0 mA	n/a	good	n/a
+1678.255371	0.0002	electrical_stimulation	n/a	n/a	3437067	biphasic	LZ1-LZ2	49-50	6.0 mA	n/a	good	n/a
+1683.491699	0.0002	electrical_stimulation	n/a	n/a	3447791	biphasic	LZ1-LZ2	49-50	6.0 mA	n/a	good	n/a
+1700.100586	0.0002	electrical_stimulation	n/a	n/a	3481806	biphasic	LZ2-LZ3	50-51	6.0 mA	n/a	good	n/a
+1705.681641	0.0002	electrical_stimulation	n/a	n/a	3493236	biphasic	LZ2-LZ3	50-51	6.0 mA	n/a	good	n/a
+1710.713379	0.0002	electrical_stimulation	n/a	n/a	3503541	biphasic	LZ2-LZ3	50-51	6.0 mA	n/a	good	n/a
+1713.935059	0.0002	electrical_stimulation	n/a	n/a	3510139	biphasic	LZ2-LZ3	50-51	6.0 mA	n/a	good	n/a
+1719.582031	0.0002	electrical_stimulation	n/a	n/a	3521704	biphasic	LZ2-LZ3	50-51	6.0 mA	n/a	good	n/a
+1723.702148	0.0002	electrical_stimulation	n/a	n/a	3530142	biphasic	LZ2-LZ3	50-51	6.0 mA	n/a	good	n/a
+1727.915039	0.0002	electrical_stimulation	n/a	n/a	3538770	biphasic	LZ2-LZ3	50-51	6.0 mA	n/a	good	n/a
+1732.369629	0.0002	electrical_stimulation	n/a	n/a	3547893	biphasic	LZ2-LZ3	50-51	6.0 mA	n/a	good	n/a
+1737.716309	0.0002	electrical_stimulation	n/a	n/a	3558843	biphasic	LZ2-LZ3	50-51	6.0 mA	n/a	good	art. ~0.3 fixed when referencing
+1741.831055	0.0002	electrical_stimulation	n/a	n/a	3567270	biphasic	LZ2-LZ3	50-51	6.0 mA	n/a	good	n/a
+1764.075195	0.0002	electrical_stimulation	n/a	n/a	3612826	biphasic	LQ1-LQ2	87-88	6.0 mA	n/a	good	n/a
+1769.541992	0.0002	electrical_stimulation	n/a	n/a	3624022	biphasic	LQ1-LQ2	87-88	6.0 mA	n/a	good	n/a
+1773.196777	0.0002	electrical_stimulation	n/a	n/a	3631507	biphasic	LQ1-LQ2	87-88	6.0 mA	n/a	good	n/a
+1777.317871	0.0002	electrical_stimulation	n/a	n/a	3639947	biphasic	LQ1-LQ2	87-88	6.0 mA	n/a	good	n/a
+1782.540039	0.0002	electrical_stimulation	n/a	n/a	3650642	biphasic	LQ1-LQ2	87-88	6.0 mA	n/a	good	n/a
+1787.777344	0.0002	electrical_stimulation	n/a	n/a	3661368	biphasic	LQ1-LQ2	87-88	6.0 mA	n/a	good	n/a
+1792.875977	0.0002	electrical_stimulation	n/a	n/a	3671810	biphasic	LQ1-LQ2	87-88	6.0 mA	n/a	good	n/a
+1797.705078	0.0002	electrical_stimulation	n/a	n/a	3681700	biphasic	LQ1-LQ2	87-88	6.0 mA	n/a	good	n/a
+1803.029297	0.0002	electrical_stimulation	n/a	n/a	3692604	biphasic	LQ1-LQ2	87-88	6.0 mA	n/a	good	n/a
+1808.914551	0.0002	electrical_stimulation	n/a	n/a	3704657	biphasic	LQ1-LQ2	87-88	6.0 mA	n/a	good	n/a
+1815.589844	0.0002	electrical_stimulation	n/a	n/a	3718328	biphasic	LQ1-LQ2	87-88	6.0 mA	n/a	good	n/a
+1823.844727	0.0002	electrical_stimulation	n/a	n/a	3735234	biphasic	LQ1-LQ2	87-88	6.0 mA	n/a	good	n/a
+1864.101563	0.0002	electrical_stimulation	n/a	n/a	3817680	biphasic	LC1-LC2	34-35	6.0 mA	n/a	good	n/a
+1869.679199	0.0002	electrical_stimulation	n/a	n/a	3829103	biphasic	LC1-LC2	34-35	6.0 mA	n/a	good	n/a
+1874.225098	0.0002	electrical_stimulation	n/a	n/a	3838413	biphasic	LC1-LC2	34-35	6.0 mA	n/a	good	n/a
+1878.698242	0.0002	electrical_stimulation	n/a	n/a	3847574	biphasic	LC1-LC2	34-35	6.0 mA	n/a	good	artifacts bef onset fixed when referencing
+1883.643066	0.0002	electrical_stimulation	n/a	n/a	3857701	biphasic	LC1-LC2	34-35	6.0 mA	n/a	good	n/a
+1889.087891	0.0002	electrical_stimulation	n/a	n/a	3868852	biphasic	LC1-LC2	34-35	6.0 mA	n/a	good	n/a
+1893.32959	0.0002	electrical_stimulation	n/a	n/a	3877539	biphasic	LC1-LC2	34-35	6.0 mA	n/a	good	n/a
+1898.244141	0.0002	electrical_stimulation	n/a	n/a	3887604	biphasic	LC1-LC2	34-35	6.0 mA	n/a	good	n/a
+1903.241211	0.0002	electrical_stimulation	n/a	n/a	3897838	biphasic	LC1-LC2	34-35	6.0 mA	n/a	good	n/a
+1907.929688	0.0002	electrical_stimulation	n/a	n/a	3907440	biphasic	LC1-LC2	34-35	6.0 mA	n/a	good	n/a
+1923.834961	0.0002	electrical_stimulation	n/a	n/a	3940014	biphasic	LC2-LC3	35-36	6.0 mA	n/a	good	n/a
+1927.508301	0.0002	electrical_stimulation	n/a	n/a	3947537	biphasic	LC2-LC3	35-36	6.0 mA	n/a	good	n/a
+1931.507324	0.0002	electrical_stimulation	n/a	n/a	3955727	biphasic	LC2-LC3	35-36	6.0 mA	n/a	good	n/a
+1935.844727	0.0002	electrical_stimulation	n/a	n/a	3964610	biphasic	LC2-LC3	35-36	6.0 mA	n/a	good	n/a
+1940.166016	0.0002	electrical_stimulation	n/a	n/a	3973460	biphasic	LC2-LC3	35-36	6.0 mA	n/a	good	art. ~0.9s fixed when referencing
+1944.167969	0.0002	electrical_stimulation	n/a	n/a	3981656	biphasic	LC2-LC3	35-36	6.0 mA	n/a	good	n/a
+1948.276367	0.0002	electrical_stimulation	n/a	n/a	3990070	biphasic	LC2-LC3	35-36	6.0 mA	n/a	good	n/a
+1952.184082	0.0002	electrical_stimulation	n/a	n/a	3998073	biphasic	LC2-LC3	35-36	6.0 mA	n/a	good	n/a
+1955.996582	0.0002	electrical_stimulation	n/a	n/a	4005881	biphasic	LC2-LC3	35-36	6.0 mA	n/a	good	n/a
+1959.782715	0.0002	electrical_stimulation	n/a	n/a	4013635	biphasic	LC2-LC3	35-36	6.0 mA	n/a	good	n/a
+1977.437988	0.0002	electrical_stimulation	n/a	n/a	4049793	biphasic	LC3-LC4	36-37	6.0 mA	n/a	good	noise fixed when referencing
+1982.980957	0.0002	electrical_stimulation	n/a	n/a	4061145	biphasic	LC3-LC4	36-37	6.0 mA	n/a	good	n/a
+1987.454102	0.0002	electrical_stimulation	n/a	n/a	4070306	biphasic	LC3-LC4	36-37	6.0 mA	n/a	good	n/a
+1991.281738	0.0002	electrical_stimulation	n/a	n/a	4078145	biphasic	LC3-LC4	36-37	6.0 mA	n/a	good	art. ~-1s to -0.6s fixed when referencing
+1995.516113	0.0002	electrical_stimulation	n/a	n/a	4086817	biphasic	LC3-LC4	36-37	6.0 mA	n/a	good	n/a
+1998.743164	0.0002	electrical_stimulation	n/a	n/a	4093426	biphasic	LC3-LC4	36-37	6.0 mA	n/a	good	art during onset fixed when referencing
+2001.551758	0.0002	electrical_stimulation	n/a	n/a	4099178	biphasic	LC3-LC4	36-37	6.0 mA	n/a	good	noise fixed when referencing
+2005.984863	0.0002	electrical_stimulation	n/a	n/a	4108257	biphasic	LC3-LC4	36-37	6.0 mA	n/a	good	n/a
+2009.79834	0.0002	electrical_stimulation	n/a	n/a	4116067	biphasic	LC3-LC4	36-37	6.0 mA	n/a	good	n/a
+2013.805664	0.0002	electrical_stimulation	n/a	n/a	4124274	biphasic	LC3-LC4	36-37	6.0 mA	n/a	good	n/a
+2017.139648	0.0002	electrical_stimulation	n/a	n/a	4131102	biphasic	LC3-LC4	36-37	6.0 mA	n/a	good	n/a
+2021.422363	0.0002	electrical_stimulation	n/a	n/a	4139873	biphasic	LC3-LC4	36-37	6.0 mA	n/a	good	artifacts fixed when referencing
+2037.907227	0.0002	electrical_stimulation	n/a	n/a	4173634	biphasic	LC4-LC5	37-38	6.0 mA	n/a	good	n/a
+2042.845703	0.0002	electrical_stimulation	n/a	n/a	4183748	biphasic	LC4-LC5	37-38	6.0 mA	n/a	good	n/a
+2048.165527	0.0002	electrical_stimulation	n/a	n/a	4194643	biphasic	LC4-LC5	37-38	6.0 mA	n/a	good	n/a
+2052.19873	0.0002	electrical_stimulation	n/a	n/a	4202903	biphasic	LC4-LC5	37-38	6.0 mA	n/a	good	n/a
+2055.122559	0.0002	electrical_stimulation	n/a	n/a	4208891	biphasic	LC4-LC5	37-38	6.0 mA	n/a	good	art. ~ -0.9s fixed when referencing
+2059.138672	0.0002	electrical_stimulation	n/a	n/a	4217116	biphasic	LC4-LC5	37-38	6.0 mA	n/a	good	art.. ~ 1.4s fixed when referencing
+2063.260254	0.0002	electrical_stimulation	n/a	n/a	4225557	biphasic	LC4-LC5	37-38	6.0 mA	n/a	good	n/a
+2068.385742	0.0002	electrical_stimulation	n/a	n/a	4236054	biphasic	LC4-LC5	37-38	6.0 mA	n/a	good	n/a
+2074.257813	0.0002	electrical_stimulation	n/a	n/a	4248080	biphasic	LC4-LC5	37-38	6.0 mA	n/a	good	n/a
+2108.211914	0.0002	electrical_stimulation	n/a	n/a	4317618	biphasic	LP13-LP14	147-148	6.0 mA	n/a	good	artifacts fixed when referencing
+2115.12207	0.0002	electrical_stimulation	n/a	n/a	4331770	biphasic	LP13-LP14	147-148	6.0 mA	n/a	good	noise fixed when referencing
+2118.227539	0.0002	electrical_stimulation	n/a	n/a	4338130	biphasic	LP13-LP14	147-148	6.0 mA	n/a	bad	wrong onset
+2124.934082	0.0002	electrical_stimulation	n/a	n/a	4351865	biphasic	LP13-LP14	147-148	6.0 mA	n/a	good	n/a
+2128.869141	0.0002	electrical_stimulation	n/a	n/a	4359924	biphasic	LP13-LP14	147-148	6.0 mA	n/a	bad	wrong onset
+2132.718262	0.0002	electrical_stimulation	n/a	n/a	4367807	biphasic	LP13-LP14	147-148	6.0 mA	n/a	bad	wrong onset
+2138.434082	0.0002	electrical_stimulation	n/a	n/a	4379513	biphasic	LP13-LP14	147-148	6.0 mA	n/a	good	n/a
+2141.07373	0.0002	electrical_stimulation	n/a	n/a	4384919	biphasic	LP13-LP14	147-148	6.0 mA	n/a	bad	wrong onset
+2145.521973	0.0002	electrical_stimulation	n/a	n/a	4394029	biphasic	LP13-LP14	147-148	6.0 mA	n/a	good	wrong onset
+2149.796875	0.0002	electrical_stimulation	n/a	n/a	4402784	biphasic	LP13-LP14	147-148	6.0 mA	n/a	bad	wrong onset
+2170.634766	0.0002	electrical_stimulation	n/a	n/a	4445460	biphasic	LP14-LP15	148-149	6.0 mA	n/a	good	n/a
+2177.677246	0.0002	electrical_stimulation	n/a	n/a	4459883	biphasic	LP14-LP15	148-149	6.0 mA	n/a	bad	wrong onset
+2181.975098	0.0002	electrical_stimulation	n/a	n/a	4468685	biphasic	LP14-LP15	148-149	6.0 mA	n/a	good	noise fixed when referencing
+2184.665527	0.0002	electrical_stimulation	n/a	n/a	4474195	biphasic	LP14-LP15	148-149	6.0 mA	n/a	bad	wrong onset
+2189.762207	0.0002	electrical_stimulation	n/a	n/a	4484633	biphasic	LP14-LP15	148-149	6.0 mA	n/a	good	n/a
+2196.234863	0.0002	electrical_stimulation	n/a	n/a	4497889	biphasic	LP14-LP15	148-149	6.0 mA	n/a	good	n/a
+2199.266602	0.0002	electrical_stimulation	n/a	n/a	4504098	biphasic	LP14-LP15	148-149	6.0 mA	n/a	bad	wrong onset
+2204.781738	0.0002	electrical_stimulation	n/a	n/a	4515393	biphasic	LP14-LP15	148-149	6.0 mA	n/a	good	n/a
+2208.641113	0.0002	electrical_stimulation	n/a	n/a	4523297	biphasic	LP14-LP15	148-149	6.0 mA	n/a	bad	wrong onset
+2212.539063	0.0002	electrical_stimulation	n/a	n/a	4531280	biphasic	LP14-LP15	148-149	6.0 mA	n/a	bad	wrong onset
+2239.937012	0.0002	electrical_stimulation	n/a	n/a	4587391	biphasic	LP16-LP17	150-151	6.0 mA	n/a	bad	wrong onset
+2245.08252	0.0002	electrical_stimulation	n/a	n/a	4597929	biphasic	LP16-LP17	150-151	6.0 mA	n/a	bad	wrong onset
+2249.28418	0.0002	electrical_stimulation	n/a	n/a	4606534	biphasic	LP16-LP17	150-151	6.0 mA	n/a	bad	wrong onset
+2253.969727	0.0002	electrical_stimulation	n/a	n/a	4616130	biphasic	LP16-LP17	150-151	6.0 mA	n/a	good	n/a
+2257.206055	0.0002	electrical_stimulation	n/a	n/a	4622758	biphasic	LP16-LP17	150-151	6.0 mA	n/a	good	noise fixed when referencing
+2262.203613	0.0002	electrical_stimulation	n/a	n/a	4632993	biphasic	LP16-LP17	150-151	6.0 mA	n/a	good	noise fixed when referencing
+2264.525879	0.0002	electrical_stimulation	n/a	n/a	4637749	biphasic	LP16-LP17	150-151	6.0 mA	n/a	bad	wrong onset
+2271.858887	0.0002	electrical_stimulation	n/a	n/a	4652767	biphasic	LP16-LP17	150-151	6.0 mA	n/a	good	n/a
+2275.739746	0.0002	electrical_stimulation	n/a	n/a	4660715	biphasic	LP16-LP17	150-151	6.0 mA	n/a	good	n/a
+2279.848633	0.0002	electrical_stimulation	n/a	n/a	4669130	biphasic	LP16-LP17	150-151	6.0 mA	n/a	good	n/a
+2326.006348	0.0002	electrical_stimulation	n/a	n/a	4763661	biphasic	LV1-LV2	117-118	6.0 mA	n/a	good	n/a
+2329.596191	0.0002	electrical_stimulation	n/a	n/a	4771013	biphasic	LV1-LV2	117-118	6.0 mA	n/a	good	n/a
+2333.955566	0.0002	electrical_stimulation	n/a	n/a	4779941	biphasic	LV1-LV2	117-118	6.0 mA	n/a	good	n/a
+2337.858887	0.0002	electrical_stimulation	n/a	n/a	4787935	biphasic	LV1-LV2	117-118	6.0 mA	n/a	good	n/a
+2342.283691	0.0002	electrical_stimulation	n/a	n/a	4796997	biphasic	LV1-LV2	117-118	6.0 mA	n/a	good	n/a
+2348.388184	0.0002	electrical_stimulation	n/a	n/a	4809499	biphasic	LV1-LV2	117-118	6.0 mA	n/a	good	n/a
+2353.844238	0.0002	electrical_stimulation	n/a	n/a	4820673	biphasic	LV1-LV2	117-118	6.0 mA	n/a	good	n/a
+2358.890625	0.0002	electrical_stimulation	n/a	n/a	4831008	biphasic	LV1-LV2	117-118	6.0 mA	n/a	good	n/a
+2362.809082	0.0002	electrical_stimulation	n/a	n/a	4839033	biphasic	LV1-LV2	117-118	6.0 mA	n/a	good	n/a
+2367.244141	0.0002	electrical_stimulation	n/a	n/a	4848116	biphasic	LV1-LV2	117-118	6.0 mA	n/a	good	n/a
+2373.125488	0.0002	electrical_stimulation	n/a	n/a	4860161	biphasic	LV1-LV2	117-118	6.0 mA	n/a	good	n/a
+2391.20752	0.0002	electrical_stimulation	n/a	n/a	4897193	biphasic	LV2-LV3	118-119	6.0 mA	n/a	good	n/a
+2395.116699	0.0002	electrical_stimulation	n/a	n/a	4905199	biphasic	LV2-LV3	118-119	6.0 mA	n/a	good	n/a
+2398.682617	0.0002	electrical_stimulation	n/a	n/a	4912502	biphasic	LV2-LV3	118-119	6.0 mA	n/a	good	n/a
+2403.000488	0.0002	electrical_stimulation	n/a	n/a	4921345	biphasic	LV2-LV3	118-119	6.0 mA	n/a	good	n/a
+2408.235352	0.0002	electrical_stimulation	n/a	n/a	4932066	biphasic	LV2-LV3	118-119	6.0 mA	n/a	good	n/a
+2413.233398	0.0002	electrical_stimulation	n/a	n/a	4942302	biphasic	LV2-LV3	118-119	6.0 mA	n/a	good	large artifacts fixed when referencing
+2419.115723	0.0002	electrical_stimulation	n/a	n/a	4954349	biphasic	LV2-LV3	118-119	6.0 mA	n/a	good	n/a
+2424.033203	0.0002	electrical_stimulation	n/a	n/a	4964420	biphasic	LV2-LV3	118-119	6.0 mA	n/a	good	n/a
+2429.585449	0.0002	electrical_stimulation	n/a	n/a	4975791	biphasic	LV2-LV3	118-119	6.0 mA	n/a	good	n/a
+2434.131836	0.0002	electrical_stimulation	n/a	n/a	4985102	biphasic	LV2-LV3	118-119	6.0 mA	n/a	good	n/a
+2437.349609	0.0002	electrical_stimulation	n/a	n/a	4991692	biphasic	LV2-LV3	118-119	6.0 mA	n/a	good	n/a
+2455.806641	0.0002	electrical_stimulation	n/a	n/a	5029492	biphasic	LV3-LV4	119-120	6.0 mA	n/a	good	n/a
+2460.709473	0.0002	electrical_stimulation	n/a	n/a	5039533	biphasic	LV3-LV4	119-120	6.0 mA	n/a	good	n/a
+2465.280273	0.0002	electrical_stimulation	n/a	n/a	5048894	biphasic	LV3-LV4	119-120	6.0 mA	n/a	good	n/a
+2470.128906	0.0002	electrical_stimulation	n/a	n/a	5058824	biphasic	LV3-LV4	119-120	6.0 mA	n/a	good	n/a
+2472.501465	0.0002	electrical_stimulation	n/a	n/a	5063683	biphasic	LV3-LV4	119-120	6.0 mA	n/a	good	n/a
+2476.957031	0.0002	electrical_stimulation	n/a	n/a	5072808	biphasic	LV3-LV4	119-120	6.0 mA	n/a	good	n/a
+2480.20459	0.0002	electrical_stimulation	n/a	n/a	5079459	biphasic	LV3-LV4	119-120	6.0 mA	n/a	good	n/a
+2484.322754	0.0002	electrical_stimulation	n/a	n/a	5087893	biphasic	LV3-LV4	119-120	6.0 mA	n/a	good	n/a
+2488.543945	0.0002	electrical_stimulation	n/a	n/a	5096538	biphasic	LV3-LV4	119-120	6.0 mA	n/a	good	n/a
+2493.20166	0.0002	electrical_stimulation	n/a	n/a	5106077	biphasic	LV3-LV4	119-120	6.0 mA	n/a	good	n/a
+2508.710938	0.0002	electrical_stimulation	n/a	n/a	5137840	biphasic	LV4-LV5	120-121	6.0 mA	n/a	good	n/a
+2512.870117	0.0002	electrical_stimulation	n/a	n/a	5146358	biphasic	LV4-LV5	120-121	6.0 mA	n/a	good	n/a
+2517.79541	0.0002	electrical_stimulation	n/a	n/a	5156445	biphasic	LV4-LV5	120-121	6.0 mA	n/a	good	n/a
+2521.808105	0.0002	electrical_stimulation	n/a	n/a	5164663	biphasic	LV4-LV5	120-121	6.0 mA	n/a	good	n/a
+2526.63623	0.0002	electrical_stimulation	n/a	n/a	5174551	biphasic	LV4-LV5	120-121	6.0 mA	n/a	good	n/a
+2531.751465	0.0002	electrical_stimulation	n/a	n/a	5185027	biphasic	LV4-LV5	120-121	6.0 mA	n/a	good	n/a
+2535.762695	0.0002	electrical_stimulation	n/a	n/a	5193242	biphasic	LV4-LV5	120-121	6.0 mA	n/a	good	n/a
+2539.560059	0.0002	electrical_stimulation	n/a	n/a	5201019	biphasic	LV4-LV5	120-121	6.0 mA	n/a	good	n/a
+2543.362305	0.0002	electrical_stimulation	n/a	n/a	5208806	biphasic	LV4-LV5	120-121	6.0 mA	n/a	good	n/a
+2565.728027	0.0002	electrical_stimulation	n/a	n/a	5254611	biphasic	LV5-LV6	121-122	6.0 mA	n/a	good	n/a
+2569.625977	0.0002	electrical_stimulation	n/a	n/a	5262594	biphasic	LV5-LV6	121-122	6.0 mA	n/a	good	n/a
+2574.058594	0.0002	electrical_stimulation	n/a	n/a	5271672	biphasic	LV5-LV6	121-122	6.0 mA	n/a	good	n/a
+2578.280762	0.0002	electrical_stimulation	n/a	n/a	5280319	biphasic	LV5-LV6	121-122	6.0 mA	n/a	good	n/a
+2584.630859	0.0002	electrical_stimulation	n/a	n/a	5293324	biphasic	LV5-LV6	121-122	6.0 mA	n/a	good	n/a
+2589.647461	0.0002	electrical_stimulation	n/a	n/a	5303598	biphasic	LV5-LV6	121-122	6.0 mA	n/a	good	n/a
+2593.673828	0.0002	electrical_stimulation	n/a	n/a	5311844	biphasic	LV5-LV6	121-122	6.0 mA	n/a	good	n/a
+2598.907227	0.0002	electrical_stimulation	n/a	n/a	5322562	biphasic	LV5-LV6	121-122	6.0 mA	n/a	good	n/a
+2682.285645	0.0002	electrical_stimulation	n/a	n/a	5493321	biphasic	LB5-LB6	20-21	6.0 mA	n/a	good	n/a
+2687.284668	0.0002	electrical_stimulation	n/a	n/a	5503559	biphasic	LB5-LB6	20-21	6.0 mA	n/a	good	n/a
+2693.635254	0.0002	electrical_stimulation	n/a	n/a	5516565	biphasic	LB5-LB6	20-21	6.0 mA	n/a	good	n/a
+2699.525879	0.0002	electrical_stimulation	n/a	n/a	5528629	biphasic	LB5-LB6	20-21	6.0 mA	n/a	good	n/a
+2703.53125	0.0002	electrical_stimulation	n/a	n/a	5536832	biphasic	LB5-LB6	20-21	6.0 mA	n/a	good	n/a
+2707.052246	0.0002	electrical_stimulation	n/a	n/a	5544043	biphasic	LB5-LB6	20-21	6.0 mA	n/a	good	n/a
+2712.27832	0.0002	electrical_stimulation	n/a	n/a	5554746	biphasic	LB5-LB6	20-21	6.0 mA	n/a	good	n/a
+2716.399902	0.0002	electrical_stimulation	n/a	n/a	5563187	biphasic	LB5-LB6	20-21	6.0 mA	n/a	good	n/a
+2723.26709	0.0002	electrical_stimulation	n/a	n/a	5577251	biphasic	LB5-LB6	20-21	6.0 mA	n/a	good	art. after 1.5s fixed when referencing
+2728.504395	0.0002	electrical_stimulation	n/a	n/a	5587977	biphasic	LB5-LB6	20-21	6.0 mA	n/a	good	large artifacts fixed when referencing
+2733.833984	0.0002	electrical_stimulation	n/a	n/a	5598892	biphasic	LB5-LB6	20-21	6.0 mA	n/a	good	n/a
+2788.487793	0.0002	electrical_stimulation	n/a	n/a	5710823	biphasic	LB9-LB10	24-25	6.0 mA	n/a	good	n/a
+2792.484375	0.0002	electrical_stimulation	n/a	n/a	5719008	biphasic	LB9-LB10	24-25	6.0 mA	n/a	good	n/a
+2796.356934	0.0002	electrical_stimulation	n/a	n/a	5726939	biphasic	LB9-LB10	24-25	6.0 mA	n/a	good	n/aart. ~1.4s fixed when referencing
+2800.341309	0.0002	electrical_stimulation	n/a	n/a	5735099	biphasic	LB9-LB10	24-25	6.0 mA	n/a	good	n/a
+2804.322754	0.0002	electrical_stimulation	n/a	n/a	5743253	biphasic	LB9-LB10	24-25	6.0 mA	n/a	good	n/a
+2809.973633	0.0002	electrical_stimulation	n/a	n/a	5754826	biphasic	LB9-LB10	24-25	6.0 mA	n/a	good	n/a
+2815.893066	0.0002	electrical_stimulation	n/a	n/a	5766949	biphasic	LB9-LB10	24-25	6.0 mA	n/a	good	n/a
+2821.211426	0.0002	electrical_stimulation	n/a	n/a	5777841	biphasic	LB9-LB10	24-25	6.0 mA	n/a	good	n/a
+2837.323242	0.0002	electrical_stimulation	n/a	n/a	5810838	biphasic	LB10-LB11	25-26	6.0 mA	n/a	good	n/a
+2841.741211	0.0002	electrical_stimulation	n/a	n/a	5819886	biphasic	LB10-LB11	25-26	6.0 mA	n/a	good	n/a
+2846.196777	0.0002	electrical_stimulation	n/a	n/a	5829011	biphasic	LB10-LB11	25-26	6.0 mA	n/a	good	n/a
+2850.833496	0.0002	electrical_stimulation	n/a	n/a	5838507	biphasic	LB10-LB11	25-26	6.0 mA	n/a	good	n/a
+2854.512207	0.0002	electrical_stimulation	n/a	n/a	5846041	biphasic	LB10-LB11	25-26	6.0 mA	n/a	good	n/a
+2859.349609	0.0002	electrical_stimulation	n/a	n/a	5855948	biphasic	LB10-LB11	25-26	6.0 mA	n/a	good	n/a
+2863.682129	0.0002	electrical_stimulation	n/a	n/a	5864821	biphasic	LB10-LB11	25-26	6.0 mA	n/a	good	n/a
+2867.584473	0.0002	electrical_stimulation	n/a	n/a	5872813	biphasic	LB10-LB11	25-26	6.0 mA	n/a	good	n/a
+2881.671875	0.0002	electrical_stimulation	n/a	n/a	5901664	biphasic	LB11-LB12	26-27	6.0 mA	n/a	good	n/a
+2887.319336	0.0002	electrical_stimulation	n/a	n/a	5913230	biphasic	LB11-LB12	26-27	6.0 mA	n/a	good	n/a
+2892.246582	0.0002	electrical_stimulation	n/a	n/a	5923321	biphasic	LB11-LB12	26-27	6.0 mA	n/a	good	n/a
+2896.068359	0.0002	electrical_stimulation	n/a	n/a	5931148	biphasic	LB11-LB12	26-27	6.0 mA	n/a	good	n/a
+2900.708008	0.0002	electrical_stimulation	n/a	n/a	5940650	biphasic	LB11-LB12	26-27	6.0 mA	n/a	good	n/a
+2904.36377	0.0002	electrical_stimulation	n/a	n/a	5948137	biphasic	LB11-LB12	26-27	6.0 mA	n/a	good	n/a
+2908.482422	0.0002	electrical_stimulation	n/a	n/a	5956572	biphasic	LB11-LB12	26-27	6.0 mA	n/a	good	n/a
+2915.030273	0.0002	electrical_stimulation	n/a	n/a	5969982	biphasic	LB11-LB12	26-27	6.0 mA	n/a	good	n/a
+2919.243164	0.0002	electrical_stimulation	n/a	n/a	5978610	biphasic	LB11-LB12	26-27	6.0 mA	n/a	good	n/a
+2934.371582	0.0002	electrical_stimulation	n/a	n/a	6009593	biphasic	LB7-LB8	22-23	6.0 mA	n/a	good	n/a
+2939.624023	0.0002	electrical_stimulation	n/a	n/a	6020350	biphasic	LB7-LB8	22-23	6.0 mA	n/a	good	n/a
+2945.961914	0.0002	electrical_stimulation	n/a	n/a	6033330	biphasic	LB7-LB8	22-23	6.0 mA	n/a	good	n/a
+2952.407227	0.0002	electrical_stimulation	n/a	n/a	6046530	biphasic	LB7-LB8	22-23	6.0 mA	n/a	good	n/a
+2957.063965	0.0002	electrical_stimulation	n/a	n/a	6056067	biphasic	LB7-LB8	22-23	6.0 mA	n/a	good	n/a
+2961.089844	0.0002	electrical_stimulation	n/a	n/a	6064312	biphasic	LB7-LB8	22-23	6.0 mA	n/a	good	articafts after 0.3s fixed when referencing
+2965.732422	0.0002	electrical_stimulation	n/a	n/a	6073820	biphasic	LB7-LB8	22-23	6.0 mA	n/a	good	large artifact fixed when referencing
+2970.268555	0.0002	electrical_stimulation	n/a	n/a	6083110	biphasic	LB7-LB8	22-23	6.0 mA	n/a	good	large artifact fixed when referencing
+2977.933105	0.0002	electrical_stimulation	n/a	n/a	6098807	biphasic	LB7-LB8	22-23	6.0 mA	n/a	good	n/a
+2981.587402	0.0002	electrical_stimulation	n/a	n/a	6106291	biphasic	LB7-LB8	22-23	6.0 mA	n/a	good	n/a
+3004.261719	0.0002	electrical_stimulation	n/a	n/a	6152728	biphasic	LC6-LC7	39-40	6.0 mA	n/a	good	n/a
+3008.36377	0.0002	electrical_stimulation	n/a	n/a	6161129	biphasic	LC6-LC7	39-40	6.0 mA	n/a	good	n/a
+3012.249512	0.0002	electrical_stimulation	n/a	n/a	6169087	biphasic	LC6-LC7	39-40	6.0 mA	n/a	good	n/a
+3017.104004	0.0002	electrical_stimulation	n/a	n/a	6179029	biphasic	LC6-LC7	39-40	6.0 mA	n/a	good	n/a
+3021.757324	0.0002	electrical_stimulation	n/a	n/a	6188559	biphasic	LC6-LC7	39-40	6.0 mA	n/a	good	n/a
+3026.755371	0.0002	electrical_stimulation	n/a	n/a	6198795	biphasic	LC6-LC7	39-40	6.0 mA	n/a	good	n/a
+3030.663086	0.0002	electrical_stimulation	n/a	n/a	6206798	biphasic	LC6-LC7	39-40	6.0 mA	n/a	good	n/a
+3034.475586	0.0002	electrical_stimulation	n/a	n/a	6214606	biphasic	LC6-LC7	39-40	6.0 mA	n/a	good	n/a
+3039.143555	0.0002	electrical_stimulation	n/a	n/a	6224166	biphasic	LC6-LC7	39-40	6.0 mA	n/a	good	n/a
+3043.810059	0.0002	electrical_stimulation	n/a	n/a	6233723	biphasic	LC6-LC7	39-40	6.0 mA	n/a	good	n/a
+3064.536621	0.0002	electrical_stimulation	n/a	n/a	6276171	biphasic	LC9-LC10	42-43	6.0 mA	n/a	good	n/a
+3068.963379	0.0002	electrical_stimulation	n/a	n/a	6285237	biphasic	LC9-LC10	42-43	6.0 mA	n/a	good	n/a
+3073.556641	0.0002	electrical_stimulation	n/a	n/a	6294644	biphasic	LC9-LC10	42-43	6.0 mA	n/a	good	n/a
+3078.66748	0.0002	electrical_stimulation	n/a	n/a	6305111	biphasic	LC9-LC10	42-43	6.0 mA	n/a	good	n/a
+3083.694336	0.0002	electrical_stimulation	n/a	n/a	6315406	biphasic	LC9-LC10	42-43	6.0 mA	n/a	good	n/a
+3087.710449	0.0002	electrical_stimulation	n/a	n/a	6323631	biphasic	LC9-LC10	42-43	6.0 mA	n/a	good	n/a
+3091.601563	0.0002	electrical_stimulation	n/a	n/a	6331600	biphasic	LC9-LC10	42-43	6.0 mA	n/a	good	n/a
+3094.943359	0.0002	electrical_stimulation	n/a	n/a	6338444	biphasic	LC9-LC10	42-43	6.0 mA	n/a	good	n/a
+3098.948242	0.0002	electrical_stimulation	n/a	n/a	6346646	biphasic	LC9-LC10	42-43	6.0 mA	n/a	good	n/a
+3101.401855	0.0002	electrical_stimulation	n/a	n/a	6351671	biphasic	LC9-LC10	42-43	6.0 mA	n/a	good	n/a
+3122.005859	0.0002	electrical_stimulation	n/a	n/a	6393868	biphasic	LC8-LC7	41-40	6.0 mA	n/a	good	n/a
+3125.666504	0.0002	electrical_stimulation	n/a	n/a	6401365	biphasic	LC8-LC7	41-40	6.0 mA	n/a	good	n/a
+3130.548828	0.0002	electrical_stimulation	n/a	n/a	6411364	biphasic	LC8-LC7	41-40	6.0 mA	n/a	good	n/a
+3135.869629	0.0002	electrical_stimulation	n/a	n/a	6422261	biphasic	LC8-LC7	41-40	6.0 mA	n/a	good	n/a
+3139.794434	0.0002	electrical_stimulation	n/a	n/a	6430299	biphasic	LC8-LC7	41-40	6.0 mA	n/a	good	n/a
+3142.794434	0.0002	electrical_stimulation	n/a	n/a	6436443	biphasic	LC8-LC7	41-40	6.0 mA	n/a	good	n/a
+3145.916016	0.0002	electrical_stimulation	n/a	n/a	6442836	biphasic	LC8-LC7	41-40	6.0 mA	n/a	good	n/a
+3149.050781	0.0002	electrical_stimulation	n/a	n/a	6449256	biphasic	LC8-LC7	41-40	6.0 mA	n/a	good	n/a
+3152.60498	0.0002	electrical_stimulation	n/a	n/a	6456535	biphasic	LC8-LC7	41-40	6.0 mA	n/a	good	n/a
+3155.962402	0.0002	electrical_stimulation	n/a	n/a	6463411	biphasic	LC8-LC7	41-40	6.0 mA	n/a	good	n/a
