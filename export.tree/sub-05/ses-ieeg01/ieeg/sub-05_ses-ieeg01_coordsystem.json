@@ -1,8 +1,0 @@
-{
-    "IntendedFor": "derivatives/freesurfer/sub-05/sub-05_ses-mri01_T1w.nii" ,
-    "iEEGCoordinateSystem": "Other",
-    "iEEGCoordinateUnits": "mm",
-    "iEEGCoordinateSystemDescription": "Native space. The coordinate frame of the scanner at data acquisition of the T1w volume",
-    "iEEGCoordinateProcessingDescription": "sEEG electrode positions from Curry",
-    "iEEGCoordinateProcessingReference": "n/a"
-}

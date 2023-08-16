@@ -1,8 +1,0 @@
-{
-    "IntendedFor": "/derivatives/freesurfer/sub-06/sub-06_ses-mri01_run-01_T1w_acpc.nii.gz" ,
-    "iEEGCoordinateSystem": "ACPC",
-    "iEEGCoordinateUnits": "mm",
-    "iEEGCoordinateSystemDescription": "ACPC using VISTASOFT software repository",
-    "iEEGCoordinateProcessingDescription": "sEEG electrode positions from Curry",
-    "iEEGCoordinateProcessingReference": "https://github.com/vistalab/vistasoft"
-}
