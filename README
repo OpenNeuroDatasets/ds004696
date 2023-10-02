@@ -7,7 +7,7 @@ This dataset is made available under the Public Domain Dedication and License CC
 https://creativecommons.org/publicdomain/zero/1.0/. 
 We hope that all users will follow the ODC Attribution/Share-Alike Community Norms (http://www.opendatacommons.org/norms/odc-by-sa/); 
 in particular, while not legally required, we hope that all users of the data will acknowledge by citing the following in any publication.
-Ojeda Valencia G, Gregg N, Huang H, Lundstrom B, Brinkmann B, Pal Attia T, Van Gompel J, Bernstein M, In MH, Huston J, Worrell G, Miller KJ, and Hermes D. 2023. Signatures of electrical stimulation driven network interactions in the human limbic system. Journal of Neuroscience (in press).
+Ojeda Valencia G, Gregg N, Huang H, Lundstrom B, Brinkmann B, Pal Attia T, Van Gompel J, Bernstein M, In MH, Huston J, Worrell G, Miller KJ, and Hermes D. 2023. Signatures of electrical stimulation driven network interactions in the human limbic system. Journal of Neuroscience. DOI: https://doi.org/10.1523/JNEUROSCI.2201-22.2023 
 
 # Task Description
 Patients were resting in the hospital bed, while single pulse stimulation was performed. The stimulation had a duration of 200 microseconds, was biphasic and had an amplitude of 6mA. For subject 7 stimulation amplitude was sometimes reduced to 4mA to minimize interictal responses.
